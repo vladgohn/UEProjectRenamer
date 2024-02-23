@@ -95,7 +95,7 @@ def process():
 
 # Создание и настройка графического интерфейса
 root = tk.Tk()
-root.title("UE Project Remaker")
+root.title("UE Project Renamer")
 root.geometry("400x350")
 
 # Установка иконки приложения
