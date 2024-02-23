@@ -20,32 +20,32 @@ UEProjectRenamer is a utility tool designed for Unreal Engine developers to stre
 ### Installation
 Clone the repository or download the source code:
 
-\```bash
-git clone https://github.com/yourusername/UEProjectRenamer.git
+```bash
+git clone https://github.com/vladgohn/UEProjectRenamer.git
 cd UEProjectRenamer
-\```
+```
 
 Install the required dependencies:
 
-\```bash
+```bash
 pip install -r requirements.txt
-\```
+```
 
 ### Usage
 Run the application:
 
-\```bash
+```bash
 python app.py
-\```
+```
 
 Select the desired actions on the GUI and process your Unreal Engine project accordingly.
 
 ### Building Executable
 To build the application into an executable, run:
 
-\```bash
+```bash
 pyinstaller --onefile --noconsole --icon="ui/icon.ico" --add-data="ui/banner.jpg;ui" --add-data="ui/icon.png;ui" app.py
-\```
+```
 
 The executable will be located in the `dist` folder.
 
