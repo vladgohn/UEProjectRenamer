@@ -44,7 +44,7 @@ Select the desired actions on the GUI and process your Unreal Engine project acc
 To build the application into an executable, run:
 
 ```bash
-pyinstaller --onefile --noconsole --icon="ui/icon.ico" --add-data="ui/banner.jpg;ui" --add-data="ui/icon.png;ui" app.py
+pyinstaller --onefile --noconsole --icon="ui/icon.ico" --add-data="ui/banner.jpg;ui" --add-data="ui/icon.png;ui" UEProjectRenamer.py
 ```
 
 The executable will be located in the `dist` folder.
