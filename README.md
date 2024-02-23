@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python app.py
+python UEProjectRenamer.py
 ```
 
 Select the desired actions on the GUI and process your Unreal Engine project accordingly.
