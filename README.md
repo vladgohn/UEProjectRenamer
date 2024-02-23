@@ -1,6 +1,6 @@
 # UEProjectRenamer
 
-![UEProjectRenamer Screenshot](link-to-your-screenshot)
+![UEProjectRenamer Screenshot](Screenshot.png)
 
 ## Overview
 UEProjectRenamer is a utility tool designed for Unreal Engine developers to streamline the process of renaming and cleaning up Unreal Engine projects. This simple yet powerful tool allows users to quickly rename their projects and clean out temporary files with a user-friendly interface.
